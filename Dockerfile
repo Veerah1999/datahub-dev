@@ -1,0 +1,1 @@
+FROM mukeshravi/datahub_images:fe_image_latest
